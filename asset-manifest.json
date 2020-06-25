@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b2b0500.chunk.css",
+    "main.js": "/static/js/main.0a5bc026.chunk.js",
+    "main.js.map": "/static/js/main.0a5bc026.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa4df6ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa4df6ff.js.map",
+    "static/css/2.e4346227.chunk.css": "/static/css/2.e4346227.chunk.css",
+    "static/js/2.7bcfba56.chunk.js": "/static/js/2.7bcfba56.chunk.js",
+    "static/js/2.7bcfba56.chunk.js.map": "/static/js/2.7bcfba56.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0740c5e7338e5823f5afa28e3ad1e4fc.js": "/precache-manifest.0740c5e7338e5823f5afa28e3ad1e4fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.6b2b0500.chunk.css.map": "/static/css/main.6b2b0500.chunk.css.map",
+    "static/js/2.7bcfba56.chunk.js.LICENSE.txt": "/static/js/2.7bcfba56.chunk.js.LICENSE.txt",
+    "static/media/breakout.gif": "/static/media/breakout.36573d83.gif",
+    "static/media/canny.jpg": "/static/media/canny.bfec2ed8.jpg",
+    "static/media/coursecrunch.png": "/static/media/coursecrunch.ff2df824.png",
+    "static/media/fortnite.png": "/static/media/fortnite.e73e42b1.png",
+    "static/media/gan.png": "/static/media/gan.92f3c2be.png",
+    "static/media/nst.gif": "/static/media/nst.fde23a54.gif",
+    "static/media/profile.jpg": "/static/media/profile.c4d8ff1d.jpg",
+    "static/media/resume.pdf": "/static/media/resume.e0b55d51.pdf",
+    "static/media/word2vec.png": "/static/media/word2vec.d904a03b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa4df6ff.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.7bcfba56.chunk.js",
+    "static/css/main.6b2b0500.chunk.css",
+    "static/js/main.0a5bc026.chunk.js"
+  ]
+}
