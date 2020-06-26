@@ -17,7 +17,7 @@ class Projects extends Component {
 		console.log("constructed")
 		super(props);
 		this.state = { 
-			activeTab: 1
+			activeTab: 0
 		};
 	}
 
@@ -135,9 +135,7 @@ class Projects extends Component {
 									Proxy Server
 								</CardTitle>
 								<CardText>
-									Implemented a proxy server with cache in <b>Python</b> to reduce server load and load time. 
-									<br/>
-									<br/>
+									Implemented a TCP proxy server with cache in <b>Python</b> to reduce server load and load time in subsequent page loads. 
 								</CardText>
 							</Card>
 						</Cell>
@@ -162,7 +160,7 @@ class Projects extends Component {
 									EXT2 File System
 								</CardTitle>
 								<CardText>
-									Implemented mkdir, cp, rm, and hard/soft links in <b>C</b> according to the ext2 file system specification.
+									Implemented mkdir, cp, rm, and hard/soft links in <b>C</b> according to the EXT2 file system specification.
 								</CardText>
 							</Card>
 							<br/>
