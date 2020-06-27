@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.845bc02a.chunk.css",
-    "main.js": "/static/js/main.1fc0b454.chunk.js",
-    "main.js.map": "/static/js/main.1fc0b454.chunk.js.map",
+    "main.css": "/static/css/main.c9933a2b.chunk.css",
+    "main.js": "/static/js/main.ee8ca8db.chunk.js",
+    "main.js.map": "/static/js/main.ee8ca8db.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa4df6ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.aa4df6ff.js.map",
     "static/css/2.e4346227.chunk.css": "/static/css/2.e4346227.chunk.css",
-    "static/js/2.0e84d367.chunk.js": "/static/js/2.0e84d367.chunk.js",
-    "static/js/2.0e84d367.chunk.js.map": "/static/js/2.0e84d367.chunk.js.map",
+    "static/js/2.20ad4745.chunk.js": "/static/js/2.20ad4745.chunk.js",
+    "static/js/2.20ad4745.chunk.js.map": "/static/js/2.20ad4745.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c0307f5e1a196a804c4dec919ec86ab8.js": "/precache-manifest.c0307f5e1a196a804c4dec919ec86ab8.js",
+    "precache-manifest.920972fdd76fc011039ae044e897ffdf.js": "/precache-manifest.920972fdd76fc011039ae044e897ffdf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.845bc02a.chunk.css.map": "/static/css/main.845bc02a.chunk.css.map",
-    "static/js/2.0e84d367.chunk.js.LICENSE.txt": "/static/js/2.0e84d367.chunk.js.LICENSE.txt",
+    "static/css/main.c9933a2b.chunk.css.map": "/static/css/main.c9933a2b.chunk.css.map",
+    "static/js/2.20ad4745.chunk.js.LICENSE.txt": "/static/js/2.20ad4745.chunk.js.LICENSE.txt",
     "static/media/breakout.gif": "/static/media/breakout.36573d83.gif",
     "static/media/canny.jpg": "/static/media/canny.bfec2ed8.jpg",
     "static/media/coursecrunch.png": "/static/media/coursecrunch.ff2df824.png",
@@ -21,14 +21,14 @@
     "static/media/gan.png": "/static/media/gan.92f3c2be.png",
     "static/media/nst.gif": "/static/media/nst.fde23a54.gif",
     "static/media/profile.jpg": "/static/media/profile.c4d8ff1d.jpg",
-    "static/media/resume.pdf": "/static/media/resume.35a62fec.pdf",
+    "static/media/resume.pdf": "/static/media/resume.2b5e3521.pdf",
     "static/media/word2vec.png": "/static/media/word2vec.d904a03b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aa4df6ff.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.0e84d367.chunk.js",
-    "static/css/main.845bc02a.chunk.css",
-    "static/js/main.1fc0b454.chunk.js"
+    "static/js/2.20ad4745.chunk.js",
+    "static/css/main.c9933a2b.chunk.css",
+    "static/js/main.ee8ca8db.chunk.js"
   ]
 }
